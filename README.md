@@ -21,7 +21,7 @@ Result:
 ---
 
 ## Method
-I can't introduce it in a limited space. I will briefly summarize all the steps, please use google for the detailed part.
+I can't introduce it in a limited space. I will briefly summarize all the steps, please use [Google](https://www.google.com) for the detailed part.
 1. Login [LINE Developers](http://developers.line.me/en/)
 2. Register LineBot
 3. Get LineBot token
