@@ -7,7 +7,7 @@ Real screenshot:
 
 ---
 
-Weather Card Example:   
+Weather Card Example ([Source](https://www.cwb.gov.tw/m/sv/images/st/ecard_mfc01_6300500_20181015171124.jpg)):   
 <a href="https://imgur.com/ZuDZMcm"><img src="https://i.imgur.com/ZuDZMcm.jpg" width = "300" height = "250" title="source: imgur.com" /></a>
 
 ---
