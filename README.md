@@ -1,4 +1,7 @@
 # LineBot for my mom
+
+2019/09/21 發現改版到新網站：https://www.cwb.gov.tw/V8/C/W/County/index.html
+
 ## Introduction
 My mom was worked in Central Weather Bureau (Taiwan, R.O.C).    
 She resigned in my childhood to take care of me and my brother, but she still cares deeply about the weather.   
